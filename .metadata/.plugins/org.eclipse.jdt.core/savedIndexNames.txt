@@ -1,1 +1,0 @@
-INDEX VERSION 1.130+C:\Temp\LP-20192\.metadata\.plugins\org.eclipse.jdt.core
